@@ -24,6 +24,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/vue.js-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/nuxt.js-%2300DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white">
+</p>
+<p align="center"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/MSSQL-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white">
