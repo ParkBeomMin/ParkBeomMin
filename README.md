@@ -7,7 +7,7 @@
   <a href="velog.io/@bmpark" target="_blank">
     <img src="https://img.shields.io/badge/velog-%2320C997?style=for-the-badge&logo=velog&logoColor=white">
   </a>
-  <a href="http://beomlog.run.goorm.site" target="_blank">
+  <a href="https://blog.beommin.kro.kr/" target="_blank">
     <img src="https://img.shields.io/badge/beomlog-%237957D5?style=for-the-badge&logo=buefy&logoColor=white">
   </a>
   <a href="mailto:club20608@gmail.com" target="_blank">
