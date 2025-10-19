@@ -4,7 +4,7 @@
 
 <h3 align="center"> 💌 SNS 💌 </h3>
 <p align="center">
-  <a href="velog.io/@bmpark" target="_blank">
+  <a href="https://velog.io/@bmpark" target="_blank">
     <img src="https://img.shields.io/badge/velog-%2320C997?style=for-the-badge&logo=velog&logoColor=white">
   </a>
   <a href="https://blog.beommin.kro.kr/" target="_blank">
@@ -36,7 +36,10 @@
 </br>
 
 <h3 align="center"> 🌟 Project 🌟 </h3>
-<p align="center"> 
+<p align="center">
+  <a href="https://duckmu.com/" target="_blank">
+    <img src="https://img.shields.io/badge/duckmu%23F7DF1E?style=for-the-badge">
+  </a>
   <a href="https://aboutme2.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/aboutme-%236DB33F?style=for-the-badge">
   </a>
