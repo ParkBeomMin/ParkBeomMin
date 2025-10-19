@@ -38,7 +38,7 @@
 <h3 align="center"> 🌟 Project 🌟 </h3>
 <p align="center">
   <a href="https://duckmu.com/" target="_blank">
-    <img src="https://img.shields.io/badge/duckmu%23F7DF1E?style=for-the-badge">
+    <img src="https://img.shields.io/badge/duckmu-%23F7DF1E?style=for-the-badge">
   </a>
   <a href="https://aboutme2.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/aboutme-%236DB33F?style=for-the-badge">
